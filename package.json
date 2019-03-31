@@ -1,6 +1,6 @@
 {
   "name": "random-word-to-gif",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Associate a random word to a gif using the Wordnik and Giphy API",
   "main": "promise.js",
   "scripts": {
