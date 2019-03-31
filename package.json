@@ -1,0 +1,28 @@
+{
+  "name": "random-word-to-gif",
+  "version": "1.0.0",
+  "description": "Associate a random word to a gif using the Wordnik and Giphy API",
+  "main": "promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vreymond/Random-Word-to-Gif.git"
+  },
+  "keywords": [
+    "random",
+    "word",
+    "gif",
+    "wordnik",
+    "giphy",
+    "javascript",
+    "promise"
+  ],
+  "author": "Valentin Reymond",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vreymond/Random-Word-to-Gif/issues"
+  },
+  "homepage": "https://github.com/vreymond/Random-Word-to-Gif#readme"
+}
